@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-04T21:12:53.579781312-08:00
+    description: A Helm chart for Kubernetes
+    digest: 7b37bbe9a9d714a785dac0dc2c578eba8c53f245bab2df98fd9203e79390ba52
+    name: notificationchart
+    urls:
+    - https://icp-fs2018-by-hs.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-04T21:12:53.579336569-08:00
